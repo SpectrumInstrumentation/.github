@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<div style="font-family: Inter, sans-serif; font-size: 27.36px; font-weight: 300; line-height: 35.568px; text-align: center; margin-bottom: 20px;">Your partner for high-resolution, high speed digitizers and AWGs</div>
+<p style="font-family: Inter, sans-serif; font-size: 27.36px; font-weight: 300; line-height: 35.568px; text-align: center; margin-bottom: 20px;">Your partner for high-resolution, high speed digitizers and AWGs</p>
 
 <p style="font-family: Inter, sans-serif; font-size: 15.2px; line-height: 24.5936px; text-align: center; margin-bottom: 20px;">
 Spectrum Instrumentation GmbH specializes in the production of high speed digitizers, arbitrary waveform generators (AWGs) and digital I/O products designed for various standards such as PCIe (PCI Express), PXIe or the Ethernet-based LXI. Our high speed digitizer portfolio – over 100 different products also known as A/D or DAQ cards and PC oscilloscopes – covers the medium and high-speed ranges with sampling rates between 5 MS/s and 5 GS/s. The bandwidth can reach more than 1 GHz.
